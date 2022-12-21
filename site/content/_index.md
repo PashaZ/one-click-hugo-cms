@@ -1,7 +1,7 @@
 ---
 title: заголовок головної сторінки
 subtitle: підзаголовок
-image: img/istockphoto-1157946861-612x612.jpg
+image: img/about-jumbotron.jpg
 blurb:
   heading: Новий блок заголовок
   text: >-
@@ -12,7 +12,7 @@ blurb:
 intro:
   heading: 2- Новий блок заголовок
   text: >-
-    2- Новий блок текст
+    2- Новий блок текс
 
     Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone.
 products:
